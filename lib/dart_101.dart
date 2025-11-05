@@ -87,7 +87,7 @@ void main() {
     // 26
     int day = 3;
     switch (day) {
-      case 3: print('Wednesday'); break;
+      case 3: print(' Wednesday'); break;
       default: print('Invalid Day');
     }
 
